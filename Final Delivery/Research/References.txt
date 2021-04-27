@@ -1,0 +1,27 @@
+@misc{cdc_2020, title={National Diabetes Statistics Report, 2020}, url={https://www.cdc.gov/diabetes/library/features/diabetes-stat-report.html}, journal={Centers for Disease Control and Prevention}, publisher={Centers for Disease Control and Prevention}, author={CDC}, year={2020}, month={Feb}}
+
+@misc{who_2013, title={About diabetes}, url={https://web.archive.org/web/20140331094533/http://www.who.int/diabetes/action_online/basics/en/}, journal={WHO}, publisher={World Health Organization}, author={WHO}, year={2013}, month={Nov}}
+
+@misc{ada_2020, title={The Cost of Diabetes}, url={https://www.diabetes.org/resources/statistics/cost-diabetes}, journal={American Diabetes Association}, publisher={ADA}, author={ADA}, year={2020}}
+
+@article{rubin2018correction,
+  title={Correction to: hospital readmission of patients with diabetes},
+  author={Rubin, Daniel J},
+  journal={Current diabetes reports},
+  volume={18},
+  number={4},
+  pages={1--9},
+  year={2018},
+  publisher={Springer}
+}
+
+@article{strack2014impact,
+  title={Impact of HbA1c measurement on hospital readmission rates: analysis of 70,000 clinical database patient records},
+  author={Strack, Beata and DeShazo, Jonathan P and Gennings, Chris and Olmo, Juan L and Ventura, Sebastian and Cios, Krzysztof J and Clore, John N},
+  journal={BioMed research international},
+  volume={2014},
+  year={2014},
+  publisher={Hindawi}
+}
+
+@misc{uci_2014, title={ Diabetes 130-US hospitals for years 1999-2008 Data Set}, url={https://archive.ics.uci.edu/ml/datasets/diabetes 130-us hospitals for years 1999-2008}, journal={UCI Machine Learning Repository}, publisher={UCI}, author={UCI}, year={2014}}
