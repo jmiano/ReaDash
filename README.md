@@ -1,5 +1,5 @@
 # ReaDash
-Authors: Joseph Miano
+Author: Joseph Miano
 
 ## Summary
 Repo for my CS 6440 Final Practicum Project Deliverables.
