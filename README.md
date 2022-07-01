@@ -9,7 +9,7 @@ ReaDash is an interactive dashboard displaying information relating to diabetes 
 # Application Manual
 
 ### Instructions for Dashboard Access
-Navigate to http://18.216.177.129:9001/ in a web browser to access the dashboard.
+Navigate to http://3.137.207.248:9001/ in a web browser to access the dashboard.
 
 ### Instructions for Dashboard Use
 All plots in the dashboard are interactive and can be clicked to zoom or highlight data.
